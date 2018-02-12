@@ -1,0 +1,15 @@
+[color]
+	ui = true
+[user]
+	name = laurenfazah
+	email = laurenfazah@gmail.com
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+	autosetupmerge = true
+[push]
+	default = simple
+[core]
+	editor = atom --wait
+	excludesfile = /Users/laurenfazah/.gitignore

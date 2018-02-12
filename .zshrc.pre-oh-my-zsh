@@ -1,0 +1,7 @@
+ZSH_THEME=avit
+export PATH=/usr/local/bin:$PATH
+test -f ~/.zshrc && source ~/.zshrc
+
+# NVM
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
